@@ -1,0 +1,28 @@
+This list includes things which I have not read, but want to
+
+
+The Organisation of the bacterial genome, Eduardo Rocha:
+http://www.annualreviews.org/doi/abs/10.1146/annurev.genet.42.110807.091653
+
+Insights from 20 years of bacterial genome sequencing
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4361730/
+
+Mobilisation of genomic islands of Staphylococcus aureus by temperate bacteriophage
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151409
+
+Evolutionary genomics of Staphylococcus aureus: Insights into the origin of methicillin-resistant strains and the toxic shock syndrome epidemic 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC37519/
+
+Evolution of paralogous genes: Reconstruction of genome rearrangements through comparison of multiple genomes within Staphylococcus aureus.
+https://www.ncbi.nlm.nih.gov/pubmed/16601000
+
+The Genome of Staphylococcus aureus: A Review
+http://www.sciencedirect.com/science/article/pii/S0934884098801655
+
+Mosaic Graphs and Comparative Genomics in Phage Communities
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122890/
+(included here as these are phage that insert in S. aureus)
+
+Aligning the unalignable: bacteriophage whole genome alignments
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0869-5
+
